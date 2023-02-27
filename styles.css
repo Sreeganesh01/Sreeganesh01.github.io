@@ -1,0 +1,41 @@
+h1{
+    color:black;
+    font-size: 64px;
+    margin-left: 20px;
+}
+body{
+    background-color:blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+}
+.landing{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 36px;
+
+}
+.pub{
+    display: flex;
+    font-size: large;
+}
+h2{
+    color: #537fe7;
+}
+.PROJECT{
+    display: flex;
+    border-width: 15px;
+}
+.ram{
+    border-radius: 5px;
+    list-style: none;
+    width: 33%;
+    background-color:#537fe7 ;
+
+}
+.ram:hover{
+    background-color: aquamarine;
+}
+.pub{
+    margin-left: 50%;
+}
